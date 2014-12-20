@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hi Humans!
+
+Yuebo here, I like data mining.
